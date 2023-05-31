@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>The Tribute Website | Mother Teresa</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="content">
+                <section class="top_section">
+                    <div class="image_container">
+                        <img src="mother_teresa.png" alt="tribute"/>
+                    </div>
+                    <div>
+                        <h1>Mother Teresa</h1>
+                        <h4>1910-1997</h4>
+                    </div>
+                </section>
+                <section class="about_section">
+                    <h2>Anjezë Gonxhe Bojaxhiu</h2>
+                    <p>
+                        Mother Teresa, born on August 26, 1910, in Skopje, Macedonia, was a Catholic nun and humanitarian. 
+                        Her birth name was Anjezë Gonxhe Bojaxhiu, and she became a naturalized Indian citizen.
+                        She moved to India in 1929 and began teaching at St. Mary's High School in Kolkata. However, 
+                        she soon felt a strong calling to help the destitute and abandoned people in the slums of the city.
+                        Mother Teresa and her sisters established numerous homes for the dying, 
+                        orphanagesand clinics to care for the sick and abandoned. 
+                        Mother Teresa's work received international recognition, and she became a symbol of compassion and humanitarianism.
+                        She passed away on September 5, 1997, in Kolkata. Despite her death, her legacy of compassion and service to the poorest of the poor lives on through the Missionaries of Charity, which operates worldwide.
+                        Mother Teresa's life and work continue to inspire people around the globe. 
+                        Her example of selflessness and dedication to helping others serves as a reminder of the profound impact one individual can have on the world by extending a hand of love and care to those in need.
+                    </p>
+
+                </section>
+                <footer><p>Read more about Mother Teresa on <a href="https://en.wikipedia.org/wiki/Mother_Teresa">Wikipedia</a></p> </footer>
+            </div>
+        </div>
+    </body>
+</html>
